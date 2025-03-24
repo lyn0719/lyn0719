@@ -1,5 +1,13 @@
 ![Banner](https://github.com/user-attachments/assets/5372b81b-f81e-4c3f-9e9f-66649860febe)
 
+<div align="center">
+
+![Yena Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyn0719&show_icons=true&theme=transparent&hide_border=true&icon_color=1D5BAF&text_color=434d58&title_color=1D5BAF)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyn0719&count_bg=%2312579E&title_bg=%233676B4&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 <br />
 
 # 👩🏻‍💻 Hi, I'm Yena Lee!
