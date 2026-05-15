@@ -1,17 +1,6 @@
-![Banner](https://github.com/user-attachments/assets/5372b81b-f81e-4c3f-9e9f-66649860febe)
-
-<div align="center">
-
-![Yena Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyn0719&show_icons=true&theme=transparent&hide_border=true&icon_color=1D5BAF&text_color=434d58&title_color=1D5BAF)
-
-</div>
-
-<br />
 
 # 👩🏻‍💻 Hi, I'm Yena Lee!
-안녕하세요! **끊임없이 발전을 추구**하는 주니어 개발자 이예나입니다 🌱
-
-해결하고자 하는 일이 생기면 깊이 고민하고, 끝까지 해결하기 위해 최선을 다합니다.
+안녕하세요! 개발자 이예나입니다 🌱
 
 ### 🏫 Education
 
@@ -23,47 +12,58 @@
 
 | 기간               | 프로젝트명            | 역할                |
 |-------------------|----------------------|-----------------------|
+| 2026.01 ~ 2026.02 | [질문을 통해 나를 알아가는 자기 성찰 서비스 [ 아름답 ]](https://github.com/AreumDap/Areumdap-backend) | Backend - SpringBoot |
 | 2025.11 ~ 2025.12 | [면접을 대하는 새로운 태도 [ JobMate ]](https://github.com/JobMate-team) | Frontend - Web |
-| 2025.01 ~ 2025.02  | [결혼을 간편하게, 초대를 특별하게 [ Wedit ]](https://github.com/Wedit-project) | Frontend - Web |
-| 2024.12     | [함께 낭만을 경험하고 공유하는 서비스 [ 낭만보트 ]](https://github.com/lyn0719/RomanticBoat-Front) | Frontend - Web |
+| 2025.01 ~ 2025.02 | [결혼을 간편하게, 초대를 특별하게 [ Wedit ]](https://github.com/Wedit-project) | Frontend - Web |
+| 2024.12 | [함께 낭만을 경험하고 공유하는 서비스 [ 낭만보트 ]](https://github.com/lyn0719/RomanticBoat-Front) | Frontend - Web |
 
 <br />
 
 ## 🏆 Awards
 
-🥇 　2024.12　 | 　**Gachon Univ. UMC 7th 장기 해커톤 1등**
+🥇　2026.02　| **10th UMC Demoday 최우수상**  
+🥇　2025.12　|　**P-실무프로젝트 최우수상**  
+🥇　2024.12　|　**Gachon Univ. UMC 7th 장기 해커톤 1등**
   
 <br />
 
 ## 📚 Experience
 
 ### 부스트코스 <코칭스터디 Let’s AI 2024>
-- **기간** : 2024.05.13 ~ 2024.06.16
+- 2024.05.13 ~ 2024.06.16
 
 ### 프로그래머스 <가천대 PCCP 대비 교육 (Python)>
-- **기간** : 2024.08.23 ~ 2024.08.30
+- 2024.08.23 ~ 2024.08.30
 
-### University MakeUs Challenge(UMC) 7기 WEB파트
-- **기간** : 2024.09.16 ~ 2025.02.21
+### University MakeUs Challenge(UMC)
+
+- **7기 WEB파트 수료**  
+  2024.09.16 ~ 2025.02.21
+
+- **가천대학교 부회장 · SpringBoot 파트 수료**  
+  2025.09.15 ~ 2026.02.20
+
+- **가천대학교 부회장 · SpringBoot 파트 활동**  
+  2026.03.13 ~
 
 <br />
 
 ## 🚀 Tech Stack
-
-### Languages
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
- </p>
-
-### Development
-<p align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> </p>
-
-### Tools & Platforms
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
 <br />
 
-## 📬 Contact Me
+## 📬 Contact
 📧 **Email**: lyn0719@gachon.ac.kr
 
 ✍🏻 **Blog**: https://lyn0719.tistory.com/
