@@ -12,10 +12,10 @@
 
 | 기간               | 프로젝트명            | 역할                |
 |-------------------|----------------------|-----------------------|
+| 2026.03 ~ 2026.05 | [안전한 의사결정을 위한 계약서 위험분석 서비스 [ SafeSign ]](https://github.com/SafeSignProject) | Frontend - Web |
 | 2026.01 ~ 2026.02 | [질문을 통해 나를 알아가는 자기 성찰 서비스 [ 아름답 ]](https://github.com/AreumDap/Areumdap-backend) | Backend - SpringBoot |
 | 2025.11 ~ 2025.12 | [면접을 대하는 새로운 태도 [ JobMate ]](https://github.com/JobMate-team) | Frontend - Web |
 | 2025.01 ~ 2025.02 | [결혼을 간편하게, 초대를 특별하게 [ Wedit ]](https://github.com/Wedit-project) | Frontend - Web |
-| 2024.12 | [함께 낭만을 경험하고 공유하는 서비스 [ 낭만보트 ]](https://github.com/lyn0719/RomanticBoat-Front) | Frontend - Web |
 
 <br />
 
